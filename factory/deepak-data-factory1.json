@@ -1,0 +1,9 @@
+{
+	"name": "deepak-data-factory1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "159e8ba3-a714-48f6-98ec-52a2d4fd44dc",
+		"tenantId": "19eabfab-5519-46a5-a7d2-ce418be91bd9"
+	}
+}
